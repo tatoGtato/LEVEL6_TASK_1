@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Game Backlog</string>
+
+    <string name="action_delete_backlog">Delete Backlog</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="platform">Platform</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release: %1s</string>
+    <string name="fab_button">Fab Button</string>
+    <string name="month_text_input">Month</string>
+    <string name="year_text_input">Year</string>
+    <string name="fab_button_add">Fab Button Add</string>
+    <string name="day_text_input">Day</string>
+    <string name="borderlands_3_text">Borderlands 3</string>
+    <string name="pc_text">PC</string>
+    <string name="release_07_09_2019_text">Release: 07-09-2019</string>
+    <string name="snackbar_msg">Deleted backlog. Are you sure? Press Undo.</string>
+    <string name="empty_title">Game title should not be empty.</string>
+    <string name="empty_month">Month of release must not be empty.</string>
+    <string name="wrong_year">Year of release must have four digits.</string>
+    <string name="wrong_date">Wrong release date specified.</string>
+    <string name="wrong_month">Release month must be between 1 and 12, inclusive.</string>
+    <string name="undo">Undo</string>
+    <string name="deleted_game">Successfully deleted %1$s</string>
+</resources>
